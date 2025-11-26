@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/althaf2112/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/althaf2112/leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/althaf2112/leetcode/tree/master/0595-big-countries) |
+| [1070-product-sales-analysis-iii](https://github.com/althaf2112/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/althaf2112/leetcode/tree/master/1148-article-views-i) |
 | [1258-article-views-i](https://github.com/althaf2112/leetcode/tree/master/1258-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/althaf2112/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
