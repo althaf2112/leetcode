@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/althaf2112/leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/althaf2112/leetcode/tree/master/0620-not-boring-movies) |
 | [1070-product-sales-analysis-iii](https://github.com/althaf2112/leetcode/tree/master/1070-product-sales-analysis-iii) |
+| [1075-project-employees-i](https://github.com/althaf2112/leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/althaf2112/leetcode/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/althaf2112/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1258-article-views-i](https://github.com/althaf2112/leetcode/tree/master/1258-article-views-i) |
