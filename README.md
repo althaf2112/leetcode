@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/althaf2112/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/althaf2112/leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/althaf2112/leetcode/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/althaf2112/leetcode/tree/master/0626-exchange-seats) |
 | [1070-product-sales-analysis-iii](https://github.com/althaf2112/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/althaf2112/leetcode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/althaf2112/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
