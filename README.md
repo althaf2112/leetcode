@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/althaf2112/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/althaf2112/leetcode/tree/master/1789-primary-department-for-each-employee) |
 | [1827-invalid-tweets](https://github.com/althaf2112/leetcode/tree/master/1827-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/althaf2112/leetcode/tree/master/1873-calculate-special-bonus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/althaf2112/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/althaf2112/leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/althaf2112/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
